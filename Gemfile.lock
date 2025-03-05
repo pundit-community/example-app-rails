@@ -179,7 +179,7 @@ GEM
       stringio
     puma (6.6.0)
       nio4r (~> 2.0)
-    pundit (2.4.0)
+    pundit (2.5.0)
       activesupport (>= 3.0.0)
     pundit-matchers (4.0.0)
       rspec-core (~> 3.12)
@@ -312,7 +312,7 @@ GEM
     unicode-display_width (3.1.4)
       unicode-emoji (~> 4.0, >= 4.0.4)
     unicode-emoji (4.0.4)
-    uri (1.0.2)
+    uri (1.0.3)
     useragent (0.16.11)
     warden (1.2.9)
       rack (>= 2.0.9)
@@ -351,7 +351,7 @@ DEPENDENCIES
   importmap-rails
   jbuilder
   puma (>= 5.0)
-  pundit (~> 2.4)
+  pundit (~> 2.5)
   pundit-matchers (~> 4.0)
   rails (~> 8.0.1)
   rspec-rails (~> 7.1)
