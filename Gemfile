@@ -32,7 +32,7 @@ end
 
 group :test do
   gem "factory_bot_rails", "~> 6.5"
-  gem "shoulda-matchers", "~> 7.0"
+  gem "shoulda-matchers", "~> 8.0"
   gem "pundit-matchers", "~> 4.0"
 end
 
